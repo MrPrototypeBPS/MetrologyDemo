@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="MetrologyDemo.Tests/MetrologyDemo.Tests.csproj" Id="b1a8d695-411b-4be5-8c09-43894a81523e" />
   <Project Path="MetrologyDemo/MetrologyDemo.csproj" />
 </Solution>
